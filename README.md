@@ -1,2 +1,2 @@
-# plater
+# plathon
 Python Interpreter
