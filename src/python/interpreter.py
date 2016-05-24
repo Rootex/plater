@@ -2,7 +2,7 @@
 # Plaix Inc, Rootex Co.
 # by Sotaya Yakubu
 
-from paser import *
+from src.python.paser import *
 
 
 class Interpreter(object):
